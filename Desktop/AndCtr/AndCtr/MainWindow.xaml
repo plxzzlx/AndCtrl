@@ -1,0 +1,17 @@
+﻿<Window x:Class="AndCtr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Button Content="开始" Height="23" HorizontalAlignment="Left" Margin="416,282,0,0" Name="btn_Start" VerticalAlignment="Top" Width="75" Click="btn_Start_Click"/>
+        <Button Content="取消" Height="23" HorizontalAlignment="Left" Margin="335,282,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Label Content="监听IP地址：" Height="28" HorizontalAlignment="Left" Margin="277,228,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox HorizontalAlignment="Left" Margin="12,39,0,12" Name="txt_Output"  Width="251" TextWrapping="Wrap" Text="{Binding Path=Output, Mode=TwoWay}" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="277,253,0,0" Name="txt_IP" VerticalAlignment="Top" Width="133" Text="192.168.149.188" />
+        <TextBox Height="183" HorizontalAlignment="Left" Margin="277,39,0,0" Name="txt_IP_List" VerticalAlignment="Top" Width="214"  TextWrapping="Wrap"/>
+        <Label Content="本机IP地址：" Height="28" HorizontalAlignment="Left" Margin="277,10,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="输出：" Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="端口：" Height="28" HorizontalAlignment="Left" Margin="410,228,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="416,253,0,0" Name="txt_Port" VerticalAlignment="Top" Width="75" Text="8818"/>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\bin\Debug\AndCtr.exe.config
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\bin\Debug\AndCtr.exe
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\bin\Debug\AndCtr.pdb
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\AndCtr.csprojResolveAssemblyReference.cache
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\MainWindow.baml
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\MainWindow.g.cs
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\App.g.cs
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\AndCtr_MarkupCompile.cache
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\AndCtr.g.resources
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\AndCtr.Properties.Resources.resources
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\AndCtr.csproj.GenerateResource.Cache
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\AndCtr.exe
+C:\Users\Keith Shawn\Documents\GitHub\AndCtrl\Desktop\AndCtr\AndCtr\obj\Debug\AndCtr.pdb
